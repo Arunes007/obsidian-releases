@@ -33003,5 +33003,12 @@
     "author": "fengshuzi",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Sync and prepare AI coding tool configurations for quick model switching.",
     "repo": "fengshuzi/ai-switch"
+  },
+  {
+    "id": "vectrola-sync",
+    "name": "Vectrola Sync",
+    "author": "Arunesh Singh",
+    "description": "Sync your Vectrola music wiki with Google Drive. Pull/push wiki files across devices.",
+    "repo": "Arunes007/vectrola-sync"
   }
 ]
